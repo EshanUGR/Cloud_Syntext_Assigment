@@ -48,6 +48,8 @@ The dashboard aggregates calculations instantly based on the state array numbers
 * **Valuation Calculations:** The system reduces the array using the structural formula: $\text{Total Value} = \sum (\text{Price} \times \text{Stock})$ to output the live monetary worth of your store inventory.
 * **Low-Stock Triggers:** An internal filter evaluates your parameters against a threshold rule ($\le 5$ units). If any items match, the dashboard alerts shift into a red flashing notification card matrix to show exactly which items need immediate re-ordering.
 
+![image alt](https://github.com/EshanUGR/Cloud_Syntext_Assigment/blob/0476e365a38e69ba8e906a15a11df0f72cc31a84/inventory-management-system%20-%20Google%20Chrome%2020_06_2026%2013_28_07.png)
+
 ### 3. Smart Validations Form (`ProductForm.jsx`)
 When adding or editing items, the entry workflow passes through strict data criteria:
 * Form fields are governed by validation constraints ensuring names and categories are provided, while ensuring values are non-negative.
