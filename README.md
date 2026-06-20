@@ -55,9 +55,17 @@ When adding or editing items, the entry workflow passes through strict data crit
 * Form fields are governed by validation constraints ensuring names and categories are provided, while ensuring values are non-negative.
 * If you do not assign a custom SKU tag, the utility logic automatically constructs a unique standard inventory identifier formatted as `PRD######`.
 
+![image alt](https://github.com/EshanUGR/Cloud_Syntext_Assigment/blob/5b5deec1c88a49ef1c1a23b7b7a0b0c86c87361d/inventory-management-system%20-%20Google%20Chrome%2020_06_2026%2013_28_11.png)
+
 ### 4. Interactive Adjustments & Cascading Updates (`ProductList.jsx` & `CategoriesPage.jsx`)
 * **Inline Quick-Adjustments:** The stock column features direct quick-action modification buttons. Clicking `+` or `-` instantly mutates the specific quantity tracker, stores the array back to disk, and triggers a real-time analytics recalculation visible on the metrics dashboard tab.
 * **Cascading System Deletions:** If you select a custom category designation text value string on the management screen and update it (e.g., renaming "Groceries" to "Fresh Foods"), the controller captures the text change and executes a cascading sweep across all connected items inside the primary product registry array—seamlessly updating all data dependencies simultaneously.
+
+
+![image alt](https://github.com/EshanUGR/Cloud_Syntext_Assigment/blob/5b5deec1c88a49ef1c1a23b7b7a0b0c86c87361d/inventory-management-system%20-%20Google%20Chrome%2020_06_2026%2013_28_18.png)
+
+
+
 
 ---
 
