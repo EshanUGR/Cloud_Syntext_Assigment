@@ -106,8 +106,6 @@ VITE v5.x.x  ready in 280 ms
 
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
-<img width="1920" height="954" alt="inventory-management-system - Google Chrome 20_06_2026 13_28_18" src="https://github.com/user-attachments/assets/3d88db41-e0ba-4df9-8a48-f68ac2b4a19c" />
-<img width="1920" height="944" alt="inventory-management-system - Google Chrome 20_06_2026 13_28_11" src="https://github.com/user-attachments/assets/f8fd8a2a-a472-4165-be36-1cc67928991b" />
-<img width="1920" height="938" alt="inventory-management-system - Google Chrome 20_06_2026 13_28_07" src="https://github.com/user-attachments/assets/9a6adee6-514d-454b-ac51-57a19915fe4a" />
+
 
 
